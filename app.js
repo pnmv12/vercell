@@ -1,4 +1,4 @@
-const firebaseURL = 'https://your-project-id.firebaseio.com'; // Replace with your Firebase project URL
+const firebaseURL = 'https://coffee-survey-f385a-default-rtdb.europe-west1.firebasedatabase.app/'; // Replace with your Firebase project URL
 
 const brewingOptions = [
   'Ristretto', 'Espresso', 'Double Espresso', 'Lungo/Americano',
